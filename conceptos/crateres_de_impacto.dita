@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="crateres_de_impacto" xml:lang="es-es">
+<title>Cráteres de impacto</title>
+
+<shortdesc>Un cráter de impacto o <i>astroblema</i> es la depresión que deja
+el impacto de un meteorito en la superficie de un cuerpo planetario
+(planeta, planeta enano, asteroide o satélite) de superficie
+sólida.</shortdesc>
+
+<conbody>
+<p>Los meteoritos que caen sobre los astros pueden tener dimensiones
+muy diferentes comprendidas entre la de ínfimos granos de polvo y la
+de asteroides de decenas de kilómetros. La energía cinética de un
+meteorito es tan grande que su disipación brusca en el suelo provoca
+su fragmentación violenta, como si explosionara (ver imagen).</p>
+
+<fig>
+<title>Secuencia de formación de un cráter de impacto. Autor: Luis María Benitez. Dominio público.</title>
+<image href="../imagenes/formacion_de_un_crater_de_impacto.png" align="center" height="180px"/>
+</fig>
+
+<p>Ha habido casos, cuando la masa del meteorito ha sido muy grande, en
+los que la lava procedente del interior irrumpe en la excavación y
+forma un lago que, al solidificarse, confiere al cráter un fondo
+llano. En razón de su forma, los cráteres de ese tipo se denominan
+circos.</p>
+
+<p>La extraordinaria potencia de esos proyectiles caídos del cielo queda
+fácilmente explicada por su velocidad (de 50.000 a 100.000km/h) y por
+su masa. La combinación de estos dos parámetros se traduce en una
+energía cinética colosal: un meteorito de 250 m de diámetro llegado a
+75.000 km/h libera tanta energía como el mayor terremoto terrestre o
+erupción volcánica que la historia de nuestro planeta conozca.</p>
+
+<p>Se ha demostrado experimentalmente que la forma de los cráteres es
+idéntica a la que resulta de la explosión en el suelo de un proyectil
+o de una bomba, o sea la de un tazón (la voz cráter viene del griego
+"vasija"). El cráter de impacto genera una serie de modificaciones
+sobre el paisaje producido por el violento suceso de colisión
+provocado, dando lugar a rocas modificadas llamadas brechas, y además
+arroja gran cantidad de material fundido en las inmediaciones del
+área.
+</p>
+</conbody>
+
+</concept>

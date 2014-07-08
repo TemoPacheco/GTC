@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap id="taskbook">
+
+<booktitle>
+    <booklibrary>Divulgación de la ciencia</booklibrary>
+    <mainbooktitle>Guía para el tallerista de ciencia</mainbooktitle>
+    <booktitlealt>Colección de talleres</booktitlealt>
+</booktitle>
+
+<bookmeta>
+
+<authorinformation>
+ <personinfo>
+  <namedetails><personname>
+    <firstname>Cuauhtémoc</firstname>
+    <middlename></middlename>
+    <lastname>Pacheco Díaz</lastname>
+    <otherinfo>Tallerista</otherinfo>
+  </personname></namedetails>
+  <addressdetails>
+    <thoroughfare>Calle</thoroughfare>
+    <locality>Ciudad</locality>
+    <administrativearea>Mich</administrativearea>
+    <country>MX</country>
+  </addressdetails>
+  <contactnumbers><contactnumber>123-555-4678</contactnumber></contactnumbers>
+  <emailaddresses><emailaddress>temo@cpacheco.org</emailaddress></emailaddresses>
+ </personinfo>
+</authorinformation>
+
+
+    <bookid>
+    <isbn>XX1271271X</isbn>
+    <booknumber>SG99-9999-00</booknumber>
+    <maintainer>
+	<organization>Grupo Onix</organization>
+	<person></person>
+    </maintainer>
+    </bookid>
+
+<bookrights>
+    <copyrfirst><year>2014</year></copyrfirst>
+    <copyrlast><year>2014</year></copyrlast>
+    <bookowner><organization>Linux OpenSource de México</organization></bookowner>
+</bookrights>
+</bookmeta>
+
+<frontmatter>
+    <booklists>
+	<toc/>
+	<figurelist/>
+	<tablelist/>
+    </booklists> 
+</frontmatter>
+
+<chapter navtitle="Talleres de Astronomía">
+  <mapref href="talleres_de_astronomia.ditamap"/>
+</chapter>
+
+<chapter navtitle="Talleres de Física">
+  <mapref href="talleres_de_fisica.ditamap"/>
+</chapter>
+
+<chapter navtitle="Talleres de Matemáticas">
+  <mapref href="talleres_de_matematicas.ditamap"/>
+</chapter>
+
+<!-- <appendix href="taskbook/task_appendix.dita"></appendix> -->
+
+ <backmatter>
+ <booklists>
+<!--
+        <topicref href="taskbook/otherbooks.dita" navtitle="Related Books"/>
+        <topicref href="taskbook/trademarks.dita" navtitle="Trademarks"/>
+        <topicref href="taskbook/Glossary.dita navtitle="Glossary"/>
+      -->
+<indexlist/>
+</booklists>
+</backmatter> 
+</bookmap>
+

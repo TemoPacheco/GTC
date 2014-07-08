@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Talleres de astronomía">
+
+<topicref href="conceptos/manchas_solares.dita" type="concept" audience="avanzado">
+  <topicref href="tareas/observacion_manchas_solares.dita" type="task"/>
+  <topicref href="referencias/formatos/formato_manchas_solares.dita" type="reference"/>
+  <topicref href="referencias/recursos_de_manchas_solares.dita" type="reference"/>
+</topicref>
+
+<topicref href="conceptos/crateres_de_impacto.dita" type="concept" audience="general">
+  <topicref href="tareas/huellas_de_impacto.dita" type="task"/>
+  <topicref href="referencias/formatos/formato_tipos_de_impacto.dita" type="reference"/>
+  <topicref href="referencias/recursos_de_crateres_de_impacto.dita" type="reference"/>
+</topicref>
+
+</map>

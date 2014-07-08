@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+ "reference.dtd">
+<reference id="recursos_de_manchas_solares" xml:lang="es-es">
+<title>Recursos sobre manchas solares</title>
+<shortdesc>Los presentes recursos se destacan por presentar la
+actividad actual del sol y de las manchas solares en el instante así
+como fotografías e información complementaria.  La
+mayoría de los recursos están en idioma inglés.
+</shortdesc>
+<refbody>
+<section>
+<p>Los enlaces apuntan a agencias de investigación relacionadas
+con la actividad del sol y en especial sobre las manchas solares.</p>
+</section>
+</refbody>
+  <related-links>
+    <link format="html" href="http://www.spaceweather.com" 
+          scope="external">
+      <linktext>Reportes diarios de las manchas solares y fotografía del sol.</linktext>
+    </link>
+    <link format="html" href="http://www.universetoday.com/10999/amazingly-sharp-image-of-a-sunspot/?6102005" scope="external">
+      <linktext>Imagen de muy alta resolución de una mancha solar del Telescopio Solar Dunn de la 
+National Science Fundation.</linktext>
+    </link>
+    <link format="html" href="http://www.perseus.gr/Astro-Solar-Sunspots.htm" 
+          scope="external">
+      <linktext>Imágenes de alta resolución de manchas solares de años pasados.</linktext>
+    </link>
+    <link format="html" href="http://www.suntrek.org" 
+          scope="external">
+      <linktext>Sitio con recursos educativos para profesores y estudiantes sobre el Sol y sus
+efectos en la Tierra.</linktext>
+    </link>
+    <link format="jpg" href="http://antwrp.gsfc.nasa.gov/apod/image/0211/sunspot_swedish_c1.jpg" 
+          scope="external">
+      <linktext>La imagen real más detallada de una mancha solar.</linktext>
+    </link>
+    <link format="html" href="http://alienworlds.southwales.ac.uk/sunStructure.html#/photosphere" 
+          scope="external">
+      <linktext>Explicación animada sobre las manchas solares en la fotósfera.</linktext>
+    </link>
+  </related-links>
+</reference>

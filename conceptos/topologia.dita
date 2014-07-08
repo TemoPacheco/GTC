@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="topologia" xml:lang="es-es">
+<title>Topología</title>
+<shortdesc>La Topología (del griego “lugar”, y “estudio”) es la rama
+de las matemáticas dedicada al estudio de aquellas propiedades de los
+cuerpos geométricos que permanecen inalteradas por transformaciones
+continuas.</shortdesc> 
+
+<conbody><p>En topología, dos objetos son equivalentes en un sentido
+mucho más amplio. Han de tener el mismo número de trozos, huecos,
+intersecciones, etc. En topología está permitido doblar, estirar,
+encoger, retorcer, etc., los objetos, pero siempre que se haga sin
+romper ni separar lo que estaba unido, ni pegar lo que estaba
+separado. Por ejemplo, un triángulo es topológicamente lo mismo que
+una circunferencia, ya que podemos transformar uno en otra de forma
+continua, sin romper ni pegar. Pero una circunferencia no es lo mismo
+que un segmento, ya que habría que partirla (o pegarla) por algún
+punto.</p>
+</conbody>
+
+</concept>

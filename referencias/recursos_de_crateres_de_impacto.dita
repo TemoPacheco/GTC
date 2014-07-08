@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+ "reference.dtd">
+<reference id="recursos_de_crateres_de_impacto" xml:lang="es-es">
+<title>Recursos sobre cráteres de impacto en planetas y lunas</title>
+<shortdesc>Se presentan fotografías y otros materiales auxiliare 
+de crateres de impacto de meteoritos sobre la superficie de planetas, lunas
+o otros objetos del sistema solar.
+</shortdesc>
+<refbody>
+<section></section>
+</refbody>
+  <related-links>
+    <link format="html" href="http://en.wikipedia.org/wiki/File:Tycho_crater_on_the_Moon.jpg" 
+          scope="external">
+      <linktext>Crater Tycho de la luna.</linktext>
+    </link>
+    <link format="html" href="http://www.lpi.usra.edu/publications/slidesets/craters/crater_index.shtml" 
+          scope="external">
+      <linktext>Cráteres de impacto en diversos planetas y lunas (en inglés).</linktext>
+    </link>
+    <link format="html" href="http://www.solarviews.com/eng/tercrate.htm" 
+          scope="external">
+      <linktext>Impactos terrestres (en inglés).</linktext>
+    </link>
+  </related-links>
+</reference>

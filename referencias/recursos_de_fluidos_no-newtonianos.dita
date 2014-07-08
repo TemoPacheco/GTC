@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+ "reference.dtd">
+<reference id="recursos_de_fluidos_no-newtonianos" xml:lang="es-es">
+<title>Recursos sobre fluidos no-newtonianos</title>
+<shortdesc>Se presentan fotografías, videos y otros materiales auxiliares
+sobre las propiedades de este tipo de fluidos.
+</shortdesc>
+<refbody>
+<section></section>
+</refbody>
+  <related-links>
+    <link format="html" href="http://www.youtube.com/watch?v=8V9VuA_0BDw"
+          scope="external">
+      <linktext>¿Sólido o líquido? ¡Descubre los fluidos No Newtonianos!. Video tutorial de la preparación
+de la mezcla.</linktext>
+    </link>
+    <link format="html" href="http://www.youtube.com/watch?v=k4HPQ-KDvsE"
+          scope="external">
+      <linktext>Video del show español "El hormiguero" (febrero de 2008) de la demostración más grande realizada.</linktext>
+    </link>
+  </related-links>
+</reference>

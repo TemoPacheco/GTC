@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="fluido_no-newtoniano" xml:lang="es-es">
+<title>Fluido no-newtoniano</title>
+
+<shortdesc>Un fluido no newtoniano es aquel fluido cuya viscosidad varía con la temperatura
+y la tensión cortante que se le aplica. Como resultado, un fluido no-newtoniano no
+tiene un valor de viscosidad definido y constante, a diferencia de un fluido newtoniano.</shortdesc> 
+
+<conbody>
+
+<p>Aunque el concepto de viscosidad se usa habitualmente para caracterizar un material,
+puede resultar inadecuado para describir el comportamiento mecánico de algunas sustancias,
+en concreto, los fluidos no newtonianos. Estos fluidos se pueden caracterizar mejor
+mediante otras propiedades reológicas, propiedades que tienen que ver con la relación
+entre el esfuerzo y los tensores de tensiones bajo diferentes condiciones de flujo,
+tales como condiciones de esfuerzo cortante oscilatorio.</p>
+
+<p>Un ejemplo barato y no tóxico de fluido no newtoniano puede hacerse fácilmente
+añadiendo almidón de maíz en una taza de agua.
+Se añade el almidón en pequeñas proporciones y se revuelve lentamente.
+Cuando la suspensión se acerca a la concentración crítica es cuando las
+propiedades de este fluido no newtoniano se hacen evidentes.
+La aplicación de una fuerza con la cucharilla hace que el fluido se
+comporte de forma más parecida a un sólido que a un líquido.
+Si se deja en reposo recupera su comportamiento como líquido.</p>
+
+<p>Se investiga con este tipo de fluidos para la fabricación de
+chalecos antibalas, debido a su capacidad para absorber la energía
+del impacto de un proyectil a alta velocidad,
+pero permaneciendo flexibles si el impacto se produce a baja velocidad.</p>
+
+
+
+</conbody>
+
+</concept>

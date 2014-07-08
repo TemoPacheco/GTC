@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="moco_de_kingkong" xml:lang="es-es">
+<title>"El moco de King-Kong": prepar y conocer un líquido no-newtoniano.</title>
+<shortdesc>Preparación de líquido o fluido no-newtoniano para manipular, conocer
+sus características físicas y mecánicas al tacto así como diferenciar su
+viscosidad, textura y dureza. Se emplean materiales no tóxicos.</shortdesc>
+
+<prolog>
+<metadata>
+        <category>física</category>
+        <category>mecánica</category>
+        <category>fluidos</category>
+        <category>fluidos no-newtonianos</category>
+        <category>líquidos no-newtonianos</category>
+  <keywords>
+        <indexterm>física</indexterm>
+        <indexterm>física<indexterm>fluidos no-newtonianos</indexterm></indexterm>
+  </keywords>
+</metadata>
+</prolog>
+
+<taskbody>
+<prereq>
+<p>El tallerista debe haber practicado previamente la preparación de la sustancia.</p>
+
+<p>El nombre de "moco de King-Kong" es tan solo un mote para la sustancia que le
+puede resultar divertido a la audiencia. El tallerista puede libremente
+cambiarlos por otro nombre para resaltar las propiedades de la
+sustancia.</p>
+
+<p>Debido a que se emplean materiales en polvo y agua que pueden
+ensuciar superficies y ropa es necesario contar con un auxiliar para
+el control de los participantes durante la actividad a la vez que
+garantice de que se sigan las instrucciones del tallerista.</p>
+
+<table>
+<title>Lista de materiales para la actividad de "El moco de King-Kong"</title>
+<tgroup cols="2">
+    <colspec colwidth="1*"/>
+    <colspec colwidth="2*"/>
+<thead>
+<row><entry>Cantidad</entry><entry>Material</entry></row>
+</thead>
+<tbody>
+<row><entry>3 sobres</entry><entry><indexterm>gelatina</indexterm>Gelatina en polvo para 1 Lt.</entry></row>
+<row><entry>3 cajas de 1 Kg</entry><entry><indexterm>maicena</indexterm>Maicena</entry></row>
+<row><entry>10 unidades</entry><entry><indexterm>plato desechable</indexterm>Plato desechable hondo</entry></row>
+<row><entry>1 litro</entry><entry><indexterm>agua</indexterm>Agua</entry></row>
+<row><entry>1 paquete</entry><entry><indexterm>toallas desechables</indexterm>Toallas desechables</entry></row>
+<row><entry>1 bolsa grande</entry><entry><indexterm>bolsa para basura</indexterm>Bolsa para basura</entry></row>
+<row><entry>4 metros</entry><entry><indexterm>papel de estrasa</indexterm>Papel de estrasa</entry></row>
+<row><entry>10 unidades</entry><entry><indexterm>sillas</indexterm>Sillas</entry></row>
+<row><entry>2 unidades</entry><entry><indexterm>mesas</indexterm>Mesas</entry></row>
+</tbody>
+</tgroup>
+</table>
+
+</prereq>
+
+<context>
+<note type="important">La actividad se puede llevar a acabo en
+espacios tanto abiertos como cerrados a cualquier hora del día.</note>
+
+<note type="attention">Se emplean materiales en polvo y agua. Tome en cuenta:
+<ul>
+<li>Cubrir las superficies cercanas y los pisos ya que se pueden ensuciar.</li> 
+<li>Tener disponible agua y servilletas para limpiar manos y superficies.</li> 
+<li>Debe advertir a los participantes y al auxiliar sobre el uso adecuado de los materiales.</li>
+<li>Evite que los niños se coman la sustancia.</li>
+<li>Evite que los participantes jueguen o arrojen los materiales fuera de lo indicado.</li>
+</ul>
+</note>
+
+<note type="restriction">Suspender el taller:
+<ul>
+<li>Si la suciedad es un riesgo en el zona.</li>
+<li>Si se encuentra dentro de una zona de difícil limpieza.</li>
+<li>Pérdida del control de la disciplina del grupo participante.</li>
+</ul>
+</note>
+
+<note type="fastpath">El tallerista puede realizar la demostración y
+mezclar solamente él los materiales para luego permitor que los
+asistentes manipulen la sustancia.
+</note>
+
+</context>
+
+<steps>
+<step><cmd>Explique las propiededes de los líquidos y de los líquidos no-newtonianos</cmd></step>
+<step><cmd>Advierta sobre la correcta manipulación de los materiales.</cmd></step>
+<step><cmd>Dosifique y entregue los materiales a los participantes.</cmd></step>
+<step><cmd>Distinga los materiales</cmd></step>
+<step><cmd>Mezcle los materiales en el plato</cmd></step>
+<step><cmd>Observe los cambios de la mezcla durante la preparación.</cmd></step>
+<step><cmd>Una vez obtenida la sustancia pida a los asistentes que manipulen la sustancia.</cmd></step>
+<step><cmd>Enfatice las propiedades del líquido no-newtoniano.</cmd></step>
+</steps>
+
+<result><p>Al concluir el taller los participantes habrán diferenciado
+las características de la viscosidad, textura y dureza
+de un líquido no-newtoniano y sus propiedades mecánicas en
+relación a un líquido normal.</p></result> 
+
+<postreq><p>Los participantes deberán devolver al tallerista el material empleado,
+limpiarán la zona de trabajo y sus manos.</p>
+</postreq>
+
+</taskbody>
+</task>

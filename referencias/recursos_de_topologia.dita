@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+ "reference.dtd">
+<reference id="recursos_de_topologia" xml:lang="es-es">
+<title>Recursos de topología</title>
+<shortdesc>
+El fin de estas páginas es el de divulgar aquellas curiosidades
+topológicas y geométricas que puedan entenderse fácilmente, con ayuda
+de imágenes, videos u otros materiales especialmente manipulativos.
+</shortdesc>
+<refbody>
+<section>
+<p>Gran parte de este material educativo, está dirigido a estudiantes
+de secundaria y bachillerato, e incluso de primaria una vez adaptado
+convenientemente. En general, los recursos están pensados para todas aquellas
+personas que quieran acercarse a esta rama apasionante de las
+matemáticas, con un enfoque intuitivo y sin apenas conocimientos
+previos.</p>
+</section>
+</refbody>
+  <related-links>
+    <link format="html" href="http://topologia.wordpress.com" scope="external">
+      <linktext>Blog: Juegos topológicos.</linktext>
+    </link>
+    <link format="pdf" href="http://rinconmatematico.com/chamizo/APtopo.pdf" 
+          scope="external">
+      <linktext>Artículo: La Topología... no esta tan difícil.</linktext>
+    </link>
+    <link format="pdf" href="http://www.ehu.es/~mtwmastm/sigma20.pdf" 
+          scope="external">
+      <linktext>Artículo: Qué es la topología? de Marta M. E.</linktext>
+    </link>
+  </related-links>
+</reference>

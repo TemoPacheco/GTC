@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="observacion_manchas_solares" xml:lang="es-es">
+<title>Observación de las manchas solares</title>
+<shortdesc>Esta actividad permite realizar la observación del sol por
+medios indirectos y el registro en papel de las manchas solares
+presentes en el momento de la actividad.</shortdesc>
+
+<prolog>
+<metadata>
+        <category>astronomía</category>
+        <category>sistema solar</category>
+        <category>sol</category>
+  <keywords>
+        <indexterm>observación de las manchas solares</indexterm>
+        <indexterm>astronomía<indexterm>observación de las manchas solares</indexterm></indexterm>
+  </keywords>
+</metadata>
+</prolog>
+
+<taskbody>
+<prereq>
+<p>El tallerista montará el telescopio apropiadamente para la
+observación indirecta del sol y se protejerá de los rayos solares bajo
+una sombra creada con una sombrilla o toldo adecuados.</p>
+<p>Debido al riesgo que presenta esta actividad es necesario contar con un
+auxiliar para el control de los participantes durante el acceso al telescopio 
+a la vez que garantice de que se sigan las instrucciones del tallerista.</p>
+
+<table>
+<title>Lista de materiales para la actividad de observación de manchas solares</title>
+<tgroup cols="2">
+    <colspec colwidth="1*"/>
+    <colspec colwidth="2*"/>
+<thead>
+<row><entry>Cantidad</entry><entry>Material</entry></row>
+</thead>
+<tbody>
+<row><entry>1 unidad</entry><entry><indexterm>telescopio</indexterm>Telescopio</entry></row>
+<row><entry>1 unidad</entry><entry><indexterm>filtro solar</indexterm>Filtro solar para telescopio o pantalla para proyección solar</entry></row>
+<row><entry>1 unidad</entry><entry>Toldo o sombrilla</entry></row>
+<row><entry>1 unidad</entry><entry>Mesa</entry></row>
+<row><entry>100 formatos</entry><entry>Papel tamaño carta impresas con el formato de observación.
+(<xref href="../referencias/formatos/formato_manchas_solares.dita">Más información sobre el formato en este link</xref>)</entry></row>
+<row><entry>1 caja</entry><entry>Crayones de 12 colores</entry></row>
+</tbody>
+</tgroup>
+</table>
+
+</prereq>
+
+<context>
+<hazardstatement type="danger">
+  <messagepanel>
+    <typeofhazard>Lentes enfocando a una fuente intensa de luz y calor.</typeofhazard>
+    <consequence>Daño por quemadura a la retina del ojo provocando una zona ciega permanente en el ojo.</consequence>
+    <howtoavoid>Evitar incondicionalmente colocar el ojo en el ocular del telescopio.</howtoavoid>
+  </messagepanel>
+</hazardstatement>
+
+<hazardstatement type="caution">
+  <messagepanel>
+    <typeofhazard>Exposición prolongada al calor solar.</typeofhazard>
+    <consequence>Insolación o quemadura de piel.</consequence>
+    <howtoavoid>El tallerista se cubrirá bajo una sombra durante la actividad 
+   y evitará exponer a los participantes
+   durante tiempo prolongado al calor solar.</howtoavoid>
+  </messagepanel>
+</hazardstatement>
+
+<note type="important">Las condiciones ideales para llevar a acabo la actividad es
+contar con espacio abierto con cielo despejado, clima adecuado en condiciones bajas de
+viento y humedad.</note>
+
+<note type="restriction">Suspender taller en el caso de:
+<ul>
+<li>Pérdida del control del grupo de participantes.</li>
+<li>Accidente.</li>
+<li>Cambio a clima desfavorable.</li>
+<li>Falla del equipo.</li>
+</ul>
+</note>
+
+<note type="fastpath">En caso de que las condiciones del clima varíe se recomienda
+de manera alterna mostrar un poster o diapositiva del sol y brindar solo una charla
+sobre el tema.</note>
+</context>
+
+<steps>
+<step><cmd>Advierta a los participantes sobre la observación correcta y el riesgos de la observación directa del sol.</cmd></step>
+<step><cmd>Realice la explicación sobre la observación del sol y de las manchas solares.</cmd></step>
+<step><cmd>Realice la observación del disco solar de forma indirecta.</cmd></step>
+<step><cmd>Entrege un formato impreso y un crayón a cada participante.</cmd></step>
+<step><cmd>Registre las manchas solares junto con los participantes:</cmd>
+<substeps>
+<substep><cmd>Fije una referencia en el formato para concensar entre los participantes el registro de las manchas solares.</cmd></substep>
+<substep><cmd>Identifique las manchas solares presentes en el momento.</cmd></substep>
+<substep><cmd>Pida a los participantes que marquen en el formato las posiciones de las manchas solares.</cmd></substep>
+<substep><cmd>Pida también que escriban la hora y fecha de la observación en el formato impreso.</cmd></substep>
+</substeps>
+</step>
+</steps>
+
+<result><p>Al concluir el taller los participantes habrán visualizado los
+detalles de la superficie del sol y registrado la posición
+de las machas solares presentes en la fecha de la observación.</p></result> 
+
+<postreq><p>El formato usado se obsequia al participante y este deberá
+devolver al tallerista el crayón empleado.</p></postreq>
+
+</taskbody>
+</task>

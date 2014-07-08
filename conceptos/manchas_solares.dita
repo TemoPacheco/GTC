@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="manchas_solares" xml:lang="es-es">
+<title>Manchas solares</title>
+
+<shortdesc>Una mancha solar es una región del Sol que tiene una temperatura más
+baja que sus alrededores, y con una intensa actividad magnética. 
+</shortdesc> 
+
+<conbody>
+<p>Una mancha solar típica consiste en una región central oscura, llamada
+"umbra", rodeada por una "penumbra" más clara. Una sola mancha puede
+llegar a medir hasta 12,000 km (casi tan grande como el diámetro de la
+Tierra), pero un grupo de manchas puede alcanzar 120,000 km de
+extensión e incluso algunas veces más.</p>
+
+<p>La oscuridad de una mancha solar es solamente un efecto de
+contraste; si pudiéramos ver a una mancha tipo, con una umbra del
+tamaño de la Tierra, aislada y a la misma distancia que el Sol,
+brillaría una 50 veces más que la Luna llena. Las manchas están
+relativamente inmóviles con respecto a la fotosfera y participan de la
+rotación solar. El área de la superficie solar cubierta por las
+manchas se mide en términos de millonésima del disco visible.</p>
+
+<fig>
+<title>Estructura granular de la superficie de sol y manchas de
+aprox 20,000 km de diámetro. Tomado en luz visible. Fuente Telescopio Óptico Solar Hinode. 
+</title>
+<image href="../imagenes/mancha_solar.jpg" align="center" height="180px"/>
+</fig>
+
+</conbody>
+
+</concept>

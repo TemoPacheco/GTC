@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cinta_de_moebius" xml:lang="es-es">
+<title>La cinta de Moebius</title>
+<shortdesc>A. F. Möbius hizo el sorprendente descubrimiento de que
+existen superficies con una sola cara. La más simple de estas
+superficies es la llamada banda o cinta de Möbius</shortdesc>
+
+<conbody><p>Esta cinta formada tomando una larga tira rectangular de
+papel y uniendo sus extremos después de darle media vuelta.  Un bicho
+que se arrastrara sobre esta superficie, andando siempre por la parte
+media de la tira, llegaría a su posición original en el lado inferior,
+como se aprecia en el dibujo del artista gráfico M. C. Escher
+(1898-1972)</p></conbody> </concept>

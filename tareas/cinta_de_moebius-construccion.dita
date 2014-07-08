@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="cinta_de_moebius-construccion" xml:lang="es-es">
+<title>Construcción de una cinta de Moebius</title>
+<shortdesc>Esta es una cinta muy especial llamada banda o cinta de Moebius.
+Aprenderemos a construirla.</shortdesc>
+<taskbody>
+<prereq>
+
+<simpletable keycol="1">
+<sthead>
+<stentry>Cantidad</stentry><stentry>Material</stentry>
+</sthead>
+<strow><stentry>1 rollo</stentry><stentry>Papel para calculadora</stentry></strow>
+<strow><stentry>10 piezas</stentry><stentry>Tijeras</stentry></strow>
+<strow><stentry>4 cajas</stentry><stentry>Crayones de 12 colores</stentry></strow>
+</simpletable>
+</prereq>
+<!--<context><p></p></context>-->
+<steps>
+<step><cmd>Se recorta una tira rectangular de papel.</cmd></step>
+<step><cmd>Uno de los extremos se gira 180º.</cmd></step>
+<step><cmd>Los extremos libres se pegan.</cmd></step>
+</steps>
+<result>
+<p><image href="../imagenes/cinta_de_moebius_completa.jpg"
+           alt="Cinta de Moebius completa"/></p>
+<!--
+<p><image href="../imagenes/grafico.svg" scalefit="yes"
+           alt="SVG?"/></p>
+-->
+</result>
+</taskbody>
+</task>

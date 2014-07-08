@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Talleres de física">
+
+<topicref href="conceptos/fluido_no-newtoniano.dita" type="concept" audience="general">
+    <topicref href="tareas/moco_de_kingkong.dita" type="task" />
+    <topicref href="referencias/recursos_de_fluidos_no-newtonianos.dita" type="reference" />
+</topicref>
+
+</map>

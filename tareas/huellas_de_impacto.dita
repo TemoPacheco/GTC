@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="huellas_de_impacto" xml:lang="es-es">
+<title>Identificación de huellas de impacto</title>
+<shortdesc>Se identificarán las distintas huellas de impacto de un
+objeto sólido sobre una superficie plana y de material distinto al del
+objeto. La actividad ejemplificará a los participantes la forma de los
+impactos de meteoritos sobre las superficie de los planetas y lunas
+del sistema solar.</shortdesc>
+
+<prolog>
+<metadata>
+        <category>física</category>
+        <category>astronomía</category>
+        <category>sistema solar</category>
+        <category>meteoritos</category>
+  <keywords>
+        <indexterm>Identificación de huellas de impacto</indexterm>
+        <indexterm>astronomía<indexterm>identificación de huellas de impacto</indexterm></indexterm>
+  </keywords>
+</metadata>
+</prolog>
+
+<taskbody>
+<prereq>
+<p>El tallerista debe contar conocimientos elementales sobre cráteres
+de impacto en la superficie de los planetas y sobre la erosión de los
+mismos.</p>
+
+<p>Es recomendable que el tallerista haya practicado previamente
+la preparación de los materiales.</p>
+
+<p>Debido a que se emplean materiales esta actividad que pueden
+ensuciar superficies y ropa es necesario contar con un auxiliar para
+el control de los participantes durante la actividad a la vez que
+garantice de que se sigan las instrucciones del tallerista.</p>
+
+<table>
+<title>Lista de materiales para la actividad de registro de huellas de impacto</title>
+<tgroup cols="2">
+    <colspec colwidth="1*"/>
+    <colspec colwidth="2*"/>
+<thead>
+<row><entry>Cantidad</entry><entry>Material</entry></row>
+</thead>
+<tbody>
+<row><entry>10 piezas</entry><entry><indexterm>plato hondo desechable</indexterm>Plato hondo desechable</entry></row>
+<row><entry>2 cajas</entry><entry><indexterm>harina</indexterm>Harina</entry></row>
+<row><entry>10 piezas</entry><entry><indexterm>piedra de grava</indexterm>Piedra de grava</entry></row>
+<row><entry>10 formatos</entry><entry>Papel tamaño carta impresas con el formato de tipo de impacto.
+(<xref href="../referencias/formatos/formato_tipos_de_impacto.dita">Más información sobre el formato en este link</xref>)</entry></row>
+<row><entry>1 caja</entry><entry><indexterm>crayones</indexterm>Crayones de 12 colores</entry></row>
+<row><entry>Cantidad libre</entry><entry>Láminas impresas o proyecciones de fotografías de 
+diversos cráteres de impacto de lunas o planetas.
+(<xref href="../referencias/recursos_de_crateres_de_impacto.dita">Obtenga algunas imágenes accediedo a este vínculo</xref>)</entry></row>
+</tbody>
+</tgroup>
+</table>
+
+</prereq>
+
+<context>
+<note type="important">La actividad se puede llevar a acabo en 
+espacios tanto abiertos como cerrados a cualquier hora del día.</note>
+
+<note type="attention">Se emplean materiales en polvo. Tome en cuenta:
+<ul>
+<li>Cubrir las superficies cercanas y los pisos ya que se pueden ensuciar.</li> 
+<li>Tener disponible agua y servilletas para limpiar manos y superficies.</li> 
+<li>Debe advertir a los participantes y al auxiliar sobre el uso adecuado de los materiales.</li>
+<li>Evite que los niños se coman la sustancia.</li>
+<li>Evite que los participantes jueguen o arrojen los materiales fuera de lo indicado.</li>
+</ul>
+</note> 
+
+<note type="restriction">Suspender el taller:
+<ul>
+<li>Si la suciedad es un riesgo en el zona.</li> 
+<li>Si se encuentra dentro de una zona de difícil limpieza.</li>
+<li>Pérdida del control de la disciplina del grupo participante.</li>
+</ul>
+</note>
+
+<note type="fastpath">El tallerista puede realizar la demostración y
+manipular solamente él los materiales.
+</note>
+
+</context>
+
+<steps>
+<step><cmd>Explique la naturaleza de los impactos de meteoritos sobre la superficie
+de los planetas y lunas del sistema solar.</cmd></step>
+<step><cmd>Entrege los materiales y formato impreso a los participantes.</cmd></step>
+<step><cmd>Coloque una capa de harina en el plato.</cmd></step>
+<step><cmd>Lanze moderadamente la piedra sobre la superficie de harina en el plato.</cmd></step>
+<step><cmd>Registre en el formato impreso dibujando la marca producida por el impacto.</cmd></step>
+<step><cmd>Aplane la superficie de harina para realizar un nuevo registro.</cmd></step>
+<step><cmd>Repita varias veces cambiando el ángulo y fuerza de lanzamiento de la piedra.</cmd></step>
+</steps>
+
+<result><p>Al concluir el taller los participantes habrán visualizado
+los detalles de los impactos de un objeto sólido sobre una superfie y
+habrán registrado las formas de las huellas de impacto a distintos
+ángulos y fuerzas de lanzamiento.</p></result>
+
+<postreq><p>El formato usado se obsequia al participante. Este deberá
+devolver al tallerista el resto de los materiales empleados. Los
+participantes limpiarán la zona de trabajo y sus manos.</p>
+</postreq>
+
+</taskbody>
+</task>
